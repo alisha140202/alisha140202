@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋,I'm Alisha Kesarwani</h1>
-<h3 align="center">I am passionate Final Year CSE Student at VIT AP University and a passionate Fullstack Developer from India. Dedicated to bridge the gap between theory and practical knowledge to contribute to the cutting edge technology. Maintaining to ensure optimal functionality and customer satisfaction.<h3>
+<h3>I am passionate Final Year CSE Student at VIT AP University and a passionate Fullstack Developer from India. Dedicated to bridge the gap between theory and practical knowledge to contribute to the cutting edge technology. Maintaining to ensure optimal functionality and customer satisfaction.</h3>
 
 
-- 🔭 I’m currently working on **Airtificial Intelligence**
+- 🔭 I’m currently working on **Airtificial Intelligence** and **Machine Learning**
 - 🌱 I’m currently **learning ways to implement my Web Development and AI knowledge together** 
 - <h3 align="left">Connect with me:</h3>
     <p align="left">
